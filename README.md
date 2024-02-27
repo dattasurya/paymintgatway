@@ -1,0 +1,2 @@
+# paymintgatway
+banking domain
